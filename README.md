@@ -5,9 +5,10 @@
 - [Dagger-Hilt](https://dagger.dev/)
 - Google Maps SDK
 - [Room Database](https://developer.android.com/training/data-storage/room)
+- View Binding
 
-## Thanks
-to: [Philipp Lackner](https://www.youtube.com/channel/UCKNTZMRHPLXfqlbdOI7mCkg)
+## Thanks to
+[Philipp Lackner](https://www.youtube.com/channel/UCKNTZMRHPLXfqlbdOI7mCkg)
 for the original idea and base app
 
 ## Prerequisites

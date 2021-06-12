@@ -1,10 +1,10 @@
 # MVVM Running Tracker App
 
 ## A project that implements:
-- MVVM
-- Dagger-Hilt
+- [MVVM](https://developer.android.com/jetpack/guide?gclid=CjwKCAjwtpGGBhBJEiwAyRZX2pCDjJdIoOr0AA1QedpyNVk0qcu-n6YIqovjlfplvjLCuP8K7gg2_hoCCEwQAvD_BwE&gclsrc=aw.ds)
+- [Dagger-Hilt](https://dagger.dev/)
 - Google Maps SDK
-- Room Database
+- [Room Database](https://developer.android.com/training/data-storage/room)
 
 ## Thanks
 to: [Philipp Lackner](https://www.youtube.com/channel/UCKNTZMRHPLXfqlbdOI7mCkg)

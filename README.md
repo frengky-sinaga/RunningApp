@@ -13,3 +13,6 @@ for the original idea and base app
 
 ## Prerequisites
 you need to add [MAPS_API_KEY](https://developers.google.com/maps/documentation/android-sdk/get-api-key) to local.properties
+
+## Status
+Creating handling permission
